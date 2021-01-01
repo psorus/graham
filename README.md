@@ -6,4 +6,4 @@ poly contains some polynom to find a orthogonal ones
 
 
 
-Not finished, namely zero length vectors can still create problems
+Not finished
