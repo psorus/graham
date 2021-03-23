@@ -95,10 +95,6 @@ class wavelet(object):
     def __str__(s):
         return "some wavelet"#"+".join([str(q)+"x**"+str(i) for i,q in enumerate(s.q) if not q==0.0])
 
-class unitlet(wavelet):
-    r1=0.0
-    r2=0.999
-    epsilon=0.01
 
 if __name__=="__main__":
     from graham import *
